@@ -137,9 +137,8 @@ The payment system supports both **USD and Lebanese Pounds (LBP)**.
 
 The promotion module allows administrators to create and manage promotional campaigns without modifying the underlying sales logic.
 
-> 📸 Add screenshot here
->
-> `screenshots/promotions.png`
+
+![POS Sales](screenshots/promotion.png)
 
 ## Promotion Types
 
