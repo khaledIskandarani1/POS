@@ -252,9 +252,6 @@ The original order remains intact while refund and exchange operations are recor
 
 The cash drawer module tracks physical cash handled by each cashier.
 
-> 📸 Add screenshot here
->
-> `screenshots/cash-drawer.png`
 
 ### Features
 
