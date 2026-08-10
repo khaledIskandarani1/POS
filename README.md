@@ -81,7 +81,7 @@ Cashiers can browse products through categories and subcategories.
 
 
 
-> `screenshots/01-pos-sales.png`
+> `![POS Sales](screenshots/pos-sales.png)`
 
 ### Features
 
