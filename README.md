@@ -198,9 +198,8 @@ The database uses a relational product structure that allows different product g
 
 The customer management module allows administrators to manage customer information and customer groups.
 
-> 📸 Add screenshot here
->
-> `screenshots/customers.png`
+
+![POS Sales](screenshots/customer.png)
 
 ### Features
 
