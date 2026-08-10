@@ -95,11 +95,10 @@ Cashiers can browse products through categories and subcategories.
 
 ---
 
-## Shopping Cart
+## POS Cart
 
 The cart manages products, quantities, customers, discounts, and order totals.
 
-> 📸 Add screenshot here
 ![POS Sales](screenshots/pos-cart.png)
 
 ### Features
