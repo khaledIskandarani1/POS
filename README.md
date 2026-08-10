@@ -118,9 +118,8 @@ The cart manages products, quantities, customers, discounts, and order totals.
 
 The payment system supports both **USD and Lebanese Pounds (LBP)**.
 
-> 📸 Add screenshot here
->
-> `screenshots/payment.png`
+
+![POS Sales](screenshots/payment.png)
 
 ### Features
 
