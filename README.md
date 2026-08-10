@@ -175,9 +175,7 @@ Administrators can configure:
 
 The product management module provides administrators with a structured product catalog.
 
-> 📸 Add screenshot here
->
-> `screenshots/products.png`
+![POS Sales](screenshots/product-management.png)
 
 ### Features
 
