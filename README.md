@@ -225,9 +225,8 @@ Example customer groups include:
 
 The system includes workflows for handling post-sale refunds and product exchanges while maintaining the original transaction history.
 
-> 📸 Add screenshot here
->
-> `screenshots/refunds-exchanges.png`
+
+![POS Sales](screenshots/exchange-refund.png)
 
 ## Refunds
 
