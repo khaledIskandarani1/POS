@@ -79,9 +79,9 @@ The POS interface is designed for fast cashier interaction while maintaining a c
 
 Cashiers can browse products through categories and subcategories.
 
-> 📸 Add screenshot here
->
-> `screenshots/pos-products.png`
+
+
+> `screenshots/01-pos-sales.png`
 
 ### Features
 
