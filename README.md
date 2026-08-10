@@ -81,7 +81,7 @@ Cashiers can browse products through categories and subcategories.
 
 
 
-> `![POS Sales](screenshots/pos-sales.png)`
+> ![POS Sales](screenshots/pos-sales.png)
 
 ### Features
 
