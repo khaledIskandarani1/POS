@@ -27,6 +27,8 @@ The long-term goal is to develop a complete bakery management platform covering 
 - 📊 Shift Reports & Data Visualization
 - 🌍 English & Arabic Interface
 - 🔐 Authentication & Admin Management
+- 🧾 Barcode Scanner & Label Printing
+- 🔐 Role-Based Access Control
 
 ### In Progress
 
@@ -34,11 +36,11 @@ The long-term goal is to develop a complete bakery management platform covering 
 
 ### Planned
 
-- 🧾 Barcode Scanner & Label Printing
-- 📦 Inventory Management
+
 - 👨‍🍳 Kitchen Management System
+- 📦 Inventory Management
 - 📊 Advanced Business Analytics
-- 🔐 Role-Based Access Control
+
 
 ---
 
