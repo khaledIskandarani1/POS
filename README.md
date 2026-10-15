@@ -64,7 +64,7 @@ The long-term goal is to develop a complete bakery management platform covering 
 
 ## Database
 
-- MySQL
+- MySQL,postgreSQL
 - Relational database design
 
 ## Desktop
