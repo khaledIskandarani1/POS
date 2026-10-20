@@ -17,7 +17,7 @@ The long-term goal is to develop a complete bakery management platform covering 
 ### Currently Implemented
 
 - 🛒 Point of Sale & Sales Management
-- 📦 Product & Catalog Management
+- 📦 online Product & Catalog Management
 - 🎁 Promotions & Discounts
 - 👥 Customer Management
 - 💳 Multi-Currency Payment Processing
@@ -29,10 +29,9 @@ The long-term goal is to develop a complete bakery management platform covering 
 - 🔐 Authentication & Admin Management
 - 🧾 Barcode Scanner & Label Printing
 - 🔐 Role-Based Access Control
-
-### In Progress
-
 - 🖥️ Electron Desktop Application
+
+
 
 ### Planned
 
